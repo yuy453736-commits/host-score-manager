@@ -1,0 +1,15 @@
+# 编译产物
+*.exe
+*.obj
+*.o
+*.out
+
+# 运行时生成的二进制数据文件
+score_management.dat
+
+# IDE / 系统文件
+.vscode/
+.idea/
+*.user
+.DS_Store
+Thumbs.db
